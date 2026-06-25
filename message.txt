@@ -1,1 +1,2 @@
 Message from feature branch
+New change to force merge
