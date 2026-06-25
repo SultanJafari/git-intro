@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Resolved message
-=======
-Message from feature branch
-New change to force merge
->>>>>>> feature-greeting
+This is the final merged message
