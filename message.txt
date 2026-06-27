@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the final merged message.
+=======
+Change from feature branch
+>>>>>>> feature-improvement
